@@ -1,12 +1,19 @@
-# LabProjectSkillNavigator
+# Lab Project Skill Navigator
 Welcome to The Skills Navigator README.
 This document provides a detailed overview of our project including how to get started, use the project, and where to find additional support.
 
-##Introduction
+## Introduction
 Our project follows several key steps: analyzing the user's current profile, finding the relevant existing jobs personalized for the user, identifying the job projected to have the highest demand in the next year, and extracting the necessary skills for that job. We then recommend these skills to the user, advising them to acquire or enhance these competencies during the upcoming period. This approach ensures that the user remains aligned with emerging trends and demands in their field.
 
-##Get started
+## Get started
+
+to install
+
 Add gemini API key in the first cell in LLM Skills Extraction section.
+```bash
+GOOGLE_API_KEY = ''
+```
+
 
 Dependencies: You need to have a gemini API key to get Recommendation .
 
@@ -14,10 +21,8 @@ Installation: Add jobs_scraped_path table path in the first cell in NLP preproce
 Dependencies: jobs_scraped table is needed to get Recommendation.
 
 
-how to add user to get Recommendation:
-
-
-run cell beloow
+## How to add user to get recommendation:
+Run cell below
 Input User Details: You'll need to type in the details requested by the function. For example, when prompted for the user ID, you'll input a number to uniquely identify the user. Similarly, you'll input the industry and preferences of the user as requested. This function requires four things:
 
 user_id: A unique identifier for the new user.
