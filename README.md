@@ -4,6 +4,8 @@ This document provides a detailed overview of our project including how to get s
 
 ## Introduction
 Our project follows several key steps: analyzing the user's current profile, finding the relevant existing jobs personalized for the user, identifying the job projected to have the highest demand in the next year, and extracting the necessary skills for that job. We then recommend these skills to the user, advising them to acquire or enhance these competencies during the upcoming period. This approach ensures that the user remains aligned with emerging trends and demands in their field.
+## Files
+Project_211624788_302342498_212673784_graphs.ipynb
 
 ## Installation
 
