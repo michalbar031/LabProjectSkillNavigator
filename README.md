@@ -1,4 +1,6 @@
 # Lab Project Skill Navigator
+![image](https://github.com/michalbar031/LabProjectSkillNavigator/assets/81368958/d110d2e6-41c3-491f-b2eb-9025149552d2)
+
 Welcome to The Skills Navigator README.
 This document provides a detailed overview of our project including how to get started, use the project, and where to find additional support.
 
